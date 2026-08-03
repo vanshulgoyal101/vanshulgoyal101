@@ -44,7 +44,7 @@
 
 ### ✈️ **United Airlines** | *Associate Analyst*
 `Jul 2025 – Present` | *Gurugram, India*
-- **Python Automation & Scale:** Engineeered Python automation scripts to streamline ground staff attendance compliance monitoring for **20,000+ employees** across United's **7 major U.S. hub airports**.
+- **Python Automation & Scale:** Engineered Python automation scripts to streamline ground staff attendance compliance monitoring for **20,000+ employees** across United's **7 major U.S. hub airports**.
 - **Data Engineering & Standardization:** Standardized complex, hub-specific labor compliance logic into automated data pipelines, replacing legacy manual audits and establishing a single source of truth for leadership.
 
 ### 🩺 **zHealth EHR** | *Software Engineering Intern*
@@ -69,7 +69,33 @@
 
 ---
 
-## 🏆 Honors & Achievements
+## � Featured Repositories
+
+| Project | What it is |
+|---------|------------|
+| 🕹️ **[Tiny Arcade](https://github.com/vanshulgoyal101/arcade)** | 11 instantly-playable browser brain games (TypeScript + Vite). Live at **[games.vanshul.com](https://games.vanshul.com)**. |
+| 🧠 **[SemCache](https://github.com/vanshulgoyal101/semCache)** | Zero-cost, tiered semantic cache SDK for LLMs — local ONNX embeddings, `<30ms` matches at `$0`. |
+| 🤖 **[Agent Team](https://github.com/vanshulgoyal101/agent-team)** | Autonomous AI software-engineering team that ships projects from GitHub Actions, hands-off. |
+| 🔐 **[AgentVault](https://github.com/vanshulgoyal101/agent-vault)** | Cryptographic policy firewall that treats an AI DeFi agent as an untrusted client. |
+| 📊 **[Attendance Compliance Engine](https://github.com/vanshulgoyal101/bluecollar-attendance-compliance)** | AI-native workforce compliance engine + dashboard (policy engine + RAG). |
+| 🎯 **[AdBrain](https://github.com/vanshulgoyal101/adbrain)** | AI ad-creative generator & manager for local SMBs (Next.js 16 + Supabase). |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vanshulgoyal101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vanshul's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshulgoyal101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshulgoyal101&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## �🏆 Honors & Achievements
 
 - **JEE Mains (2021):** Secured **98.6 Percentile** among over 1 Million candidates.
 - **Indian Mathematics Olympiad (InMO, 2019):** Selected among top 30 students in North India (RMO qualifier).
@@ -77,6 +103,6 @@
 
 ---
 
-<p center>
+<p align="center">
   <i>Open to discussions on Python Automation, Full-Stack Architecture, and Data Pipelines! Feel free to reach out.</i>
 </p>
