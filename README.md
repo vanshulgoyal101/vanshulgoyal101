@@ -69,16 +69,17 @@
 
 ---
 
-## � Featured Repositories
+## 🌟 Featured Repositories
 
 | Project | What it is |
 |---------|------------|
 | 🕹️ **[Tiny Arcade](https://github.com/vanshulgoyal101/arcade)** | 11 instantly-playable browser brain games (TypeScript + Vite). Live at **[games.vanshul.com](https://games.vanshul.com)**. |
+| 🧩 **[ctx](https://github.com/vanshulgoyal101/ctx)** | MCP server that turns any GitHub repo into agent-ready context. Live at **[ctx.vanshul.com](https://ctx.vanshul.com)**. |
+| 📖 **[mcp](https://github.com/vanshulgoyal101/mcp)** | MCP server that reads the live web as clean Markdown for AI agents. Live at **[mcp.vanshul.com](https://mcp.vanshul.com)**. |
+| 🧰 **[Dev Tools](https://github.com/vanshulgoyal101/tools)** | Privacy-first, offline developer toolbox — 19 utilities + Smart Paste (PWA). Live at **[tools.vanshul.com](https://tools.vanshul.com)**. |
 | 🧠 **[SemCache](https://github.com/vanshulgoyal101/semCache)** | Zero-cost, tiered semantic cache SDK for LLMs — local ONNX embeddings, `<30ms` matches at `$0`. |
-| 🤖 **[Agent Team](https://github.com/vanshulgoyal101/agent-team)** | Autonomous AI software-engineering team that ships projects from GitHub Actions, hands-off. |
-| 🔐 **[AgentVault](https://github.com/vanshulgoyal101/agent-vault)** | Cryptographic policy firewall that treats an AI DeFi agent as an untrusted client. |
-| 📊 **[Attendance Compliance Engine](https://github.com/vanshulgoyal101/bluecollar-attendance-compliance)** | AI-native workforce compliance engine + dashboard (policy engine + RAG). |
 | 🎯 **[AdBrain](https://github.com/vanshulgoyal101/adbrain)** | AI ad-creative generator & manager for local SMBs (Next.js 16 + Supabase). |
+| 🔐 **[AgentVault](https://github.com/vanshulgoyal101/agent-vault)** | Cryptographic policy firewall that treats an AI DeFi agent as an untrusted client. |
 
 ---
 
@@ -95,7 +96,7 @@
 
 ---
 
-## �🏆 Honors & Achievements
+## 🏆 Honors & Achievements
 
 - **JEE Mains (2021):** Secured **98.6 Percentile** among over 1 Million candidates.
 - **Indian Mathematics Olympiad (InMO, 2019):** Selected among top 30 students in North India (RMO qualifier).
