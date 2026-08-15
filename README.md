@@ -21,21 +21,27 @@
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux/Unix-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -69,17 +75,33 @@
 
 ---
 
-## 🌟 Featured Repositories
+## 🌟 Featured Projects
+
+### 🤖 AI Agents & LLM Infrastructure
 
 | Project | What it is |
 |---------|------------|
+| 🧑‍💻 **[agent-team](https://github.com/vanshulgoyal101/agent-team)** | Autonomous AI software-engineering team that runs in GitHub Actions — brainstorms, architects, codes, and integration-tests projects every 30 minutes, hands-off. |
+| 👁️ **[agentwatch](https://github.com/vanshulgoyal101/agentwatch)** | Self-hostable, local-first observability & step-by-step **trace-replay** dashboard for multi-agent runs — hierarchical tracing, token/cost auditing, zero-dependency SQLite backend. |
+| 📬 **[agent-mailroom](https://github.com/vanshulgoyal101/agent-mailroom)** | Cryptographic machine-to-machine identity & micro-payment layer for AI agents — DIDs, signed request envelopes, and off-chain payment channels. |
+| 🔐 **[agent-vault](https://github.com/vanshulgoyal101/agent-vault)** | Cryptographic policy firewall that treats an AI DeFi agent as an untrusted client, vetting every transaction against deterministic whitelists & caps before signing. |
+| 🧠 **[SemCache](https://github.com/vanshulgoyal101/semCache)** | Zero-cost, tiered semantic cache SDK for LLMs — local quantized ONNX embeddings deliver `<30ms` matches at `$0`. JavaScript & Python SDKs. |
+| 🧩 **[ctx](https://github.com/vanshulgoyal101/ctx)** &middot; 📖 **[mcp](https://github.com/vanshulgoyal101/mcp)** | MCP servers on Cloudflare Workers — turn a GitHub repo into agent-ready context, and read the live web as clean Markdown. Live at **[ctx.vanshul.com](https://ctx.vanshul.com)** / **[mcp.vanshul.com](https://mcp.vanshul.com)**. |
+| 🛠️ **[autopatch](https://github.com/vanshulgoyal101/autopatch)** | Intelligent Python dependency-upgrade tool — diffs public APIs across package versions and auto-generates migration patches for breaking changes. |
+| 🗣️ **[memova](https://github.com/vanshulgoyal101/memova)** | Ask multiple databases questions in plain English — an AI natural-language query platform (FastAPI + React + Gemini). |
+
+### 🌐 Products & Web Apps
+
+| Project | What it is |
+|---------|------------|
+| 🎯 **[AdBrain](https://github.com/vanshulgoyal101/adbrain)** | AI ad-creative generator & manager for local SMBs — on-brand Meta ad variants (Next.js 16 + Supabase). |
 | 🕹️ **[Tiny Arcade](https://github.com/vanshulgoyal101/arcade)** | 11 instantly-playable browser brain games (TypeScript + Vite). Live at **[games.vanshul.com](https://games.vanshul.com)**. |
-| 🧩 **[ctx](https://github.com/vanshulgoyal101/ctx)** | MCP server that turns any GitHub repo into agent-ready context. Live at **[ctx.vanshul.com](https://ctx.vanshul.com)**. |
-| 📖 **[mcp](https://github.com/vanshulgoyal101/mcp)** | MCP server that reads the live web as clean Markdown for AI agents. Live at **[mcp.vanshul.com](https://mcp.vanshul.com)**. |
 | 🧰 **[Dev Tools](https://github.com/vanshulgoyal101/tools)** | Privacy-first, offline developer toolbox — 19 utilities + Smart Paste (PWA). Live at **[tools.vanshul.com](https://tools.vanshul.com)**. |
-| 🧠 **[SemCache](https://github.com/vanshulgoyal101/semCache)** | Zero-cost, tiered semantic cache SDK for LLMs — local ONNX embeddings, `<30ms` matches at `$0`. |
-| 🎯 **[AdBrain](https://github.com/vanshulgoyal101/adbrain)** | AI ad-creative generator & manager for local SMBs (Next.js 16 + Supabase). |
-| 🔐 **[AgentVault](https://github.com/vanshulgoyal101/agent-vault)** | Cryptographic policy firewall that treats an AI DeFi agent as an untrusted client. |
+| 📊 **[BlueCollar Compliance](https://github.com/vanshulgoyal101/bluecollar-attendance-compliance)** | AI-native workforce attendance-compliance engine — deterministic point-policy engine plus RAG note analysis for FMLA/union rules. |
+| 🧱 **[lego](https://github.com/vanshulgoyal101/lego)** | Zero-dependency, AI-optimized reusable code blocks — crash-proof components you copy straight in, with a CLI and interactive docs. |
+| ✍️ **[Lexis](https://github.com/vanshulgoyal101/lexis)** | Typography, syntax & readability analytics — a fast, local-first library that indexes long-form Markdown and scores it with industry-standard metrics. |
+| ⚖️ **[The Dialectic](https://github.com/vanshulgoyal101/the-dialectic)** | AI philosophical clash — opposing AI thinkers debate two sides of a question (React + TypeScript). |
+| 🌐 **[Portfolio](https://github.com/vanshulgoyal101/vanshul-portfolio)** | My personal portfolio & blog — **[vanshul.com](https://vanshul.com)**. React 19 + Vite, three.js hero, Supabase-backed contact form. |
 
 ---
 
