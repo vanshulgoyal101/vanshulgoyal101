@@ -12,7 +12,7 @@
 
 - ✈️ **Currently:** Associate Analyst at **United Airlines**, building data automation tools that power operations across major U.S. hub airports.
 - 🎓 **Education:** B.Tech in Electronics & Communication Engineering (Minor in Computer Science) from **Punjab Engineering College** (CGPA: 8.1/10).
-- 🛠️ **Core Focus:** Full-Stack Development, Python Automation, Scalable Backend Services (Java/Spring Boot), and Operations Data Analytics.
+- 🛠️ **Core Focus:** AI agents & LLM infrastructure (MCP servers, semantic caching, agent tooling), Full-Stack Development (Next.js / React / FastAPI), and Operations Data Analytics.
 - 💡 **Passionate About:** Turning complex, large-scale operational bottlenecks into automated, elegant software solutions.
 
 ---
@@ -94,14 +94,24 @@
 
 | Project | What it is |
 |---------|------------|
-| 🎯 **[AdBrain](https://github.com/vanshulgoyal101/adbrain)** | AI ad-creative generator & manager for local SMBs — on-brand Meta ad variants (Next.js 16 + Supabase). |
+| 🎯 **[AdBrain](https://github.com/vanshulgoyal101/adbrain)** | AI ad-creative generator & manager for local SMBs — on-brand Meta ad variants (Next.js 16 + Supabase). Live at **[adbrain.vanshul.com](https://adbrain.vanshul.com)**. |
 | 🕹️ **[Tiny Arcade](https://github.com/vanshulgoyal101/arcade)** | 11 instantly-playable browser brain games (TypeScript + Vite). Live at **[games.vanshul.com](https://games.vanshul.com)**. |
 | 🧰 **[Dev Tools](https://github.com/vanshulgoyal101/tools)** | Privacy-first, offline developer toolbox — 19 utilities + Smart Paste (PWA). Live at **[tools.vanshul.com](https://tools.vanshul.com)**. |
 | 📊 **[BlueCollar Compliance](https://github.com/vanshulgoyal101/bluecollar-attendance-compliance)** | AI-native workforce attendance-compliance engine — deterministic point-policy engine plus RAG note analysis for FMLA/union rules. |
 | 🧱 **[lego](https://github.com/vanshulgoyal101/lego)** | Zero-dependency, AI-optimized reusable code blocks — crash-proof components you copy straight in, with a CLI and interactive docs. |
 | ✍️ **[Lexis](https://github.com/vanshulgoyal101/lexis)** | Typography, syntax & readability analytics — a fast, local-first library that indexes long-form Markdown and scores it with industry-standard metrics. |
-| ⚖️ **[The Dialectic](https://github.com/vanshulgoyal101/the-dialectic)** | AI philosophical clash — opposing AI thinkers debate two sides of a question (React + TypeScript). |
+| ⚖️ **[The Dialectic](https://github.com/vanshulgoyal101/the-dialectic)** | AI philosophical debate — two AI personas argue any topic while a live **D3 force-directed graph** maps their concepts and where they clash (React 19 + Gemini). |
+| 🌌 **[Cosmic Zoom](https://github.com/vanshulgoyal101/cosmic-zoom)** | An interactive “powers of ten” physics sandbox — zoom across **44 orders of magnitude** from quarks to galaxies with real Matter.js physics (React 19 + TypeScript). |
 | 🌐 **[Portfolio](https://github.com/vanshulgoyal101/vanshul-portfolio)** | My personal portfolio & blog — **[vanshul.com](https://vanshul.com)**. React 19 + Vite, three.js hero, Supabase-backed contact form. |
+
+---
+
+## 📦 Shipped & Published
+
+- 🐍 **On PyPI:** `pip install agent-vault-py` · `pip install agent-mailroom` · `pip install depshift` · `pip install semc`
+- 📦 **On npm:** `npm i semcache`
+- 🌐 **2 live MCP servers** on Cloudflare Workers, listed in the official [MCP Registry](https://registry.modelcontextprotocol.io) — **[ctx.vanshul.com](https://ctx.vanshul.com)** (repo → agent context) & **[mcp.vanshul.com](https://mcp.vanshul.com)** (web → Markdown).
+- 🕹️ **Live products:** [games.vanshul.com](https://games.vanshul.com) · [tools.vanshul.com](https://tools.vanshul.com) · [adbrain.vanshul.com](https://adbrain.vanshul.com)
 
 ---
 
