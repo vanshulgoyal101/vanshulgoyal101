@@ -87,6 +87,7 @@
 | 🔐 **[agent-vault](https://github.com/vanshulgoyal101/agent-vault)** | Cryptographic policy firewall that treats an AI DeFi agent as an untrusted client, vetting every transaction against deterministic whitelists & caps before signing. |
 | 🧠 **[SemCache](https://github.com/vanshulgoyal101/semCache)** | Zero-cost, tiered semantic cache SDK for LLMs — local quantized ONNX embeddings deliver `<30ms` matches at `$0`. JavaScript & Python SDKs. |
 | 🧩 **[ctx](https://github.com/vanshulgoyal101/ctx)** &middot; 📖 **[mcp](https://github.com/vanshulgoyal101/mcp)** | MCP servers on Cloudflare Workers — turn a GitHub repo into agent-ready context, and read the live web as clean Markdown. Live at **[ctx.vanshul.com](https://ctx.vanshul.com)** / **[mcp.vanshul.com](https://mcp.vanshul.com)**. |
+| 📚 **[vbrain](https://github.com/vanshulgoyal101/vbrain)** | An AI-queryable “second brain” **engine** — turns a folder of Markdown into full-text search, a live knowledge graph, and an **MCP server** agents can query. The engine is open source; your notes stay private. |
 | 🛠️ **[autopatch](https://github.com/vanshulgoyal101/autopatch)** | Intelligent Python dependency-upgrade tool — diffs public APIs across package versions and auto-generates migration patches for breaking changes. |
 | 🗣️ **[memova](https://github.com/vanshulgoyal101/memova)** | Ask multiple databases questions in plain English — an AI natural-language query platform (FastAPI + React + Gemini). |
 
