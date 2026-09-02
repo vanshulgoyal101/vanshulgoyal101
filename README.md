@@ -12,8 +12,8 @@ Associate Analyst at United Airlines; most of what's below is built after hours.
 | Project | What it does | Built with |
 |---|---|---|
 | **[AdBrain](https://adbrain.vanshul.com)** | Generates and manages on-brand Meta ad creative for local businesses | Next.js, Supabase |
-| **[Tiny Arcade](https://games.vanshul.com)** | 11 instant-play browser games. No backend, no framework | TypeScript, Vite |
-| **[Dev Tools](https://tools.vanshul.com)** | 19 developer utilities that work fully offline, plus a paste-anything box | PWA |
+| **[Tiny Arcade](https://games.vanshul.com)** | 10 instant-play browser games. No backend, no framework | TypeScript, Vite |
+| **[Dev Tools](https://tools.vanshul.com)** | 25 developer utilities that work fully offline, plus a paste-anything box | PWA |
 | **[ctx](https://ctx.vanshul.com)** | MCP server that turns a GitHub repo into agent-ready context | Cloudflare Workers |
 | **[mcp](https://mcp.vanshul.com)** | MCP server that reads the live web as clean Markdown | Cloudflare Workers |
 | **[vbrain](https://vbrain.vanshul.com)** | Markdown notes → full-text search, knowledge graph, MCP server | Cloudflare Workers |
