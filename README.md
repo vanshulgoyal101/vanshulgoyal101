@@ -1,7 +1,7 @@
 # Vanshul Goyal
 
-I build small, fast, self-contained things for the web — and tooling for AI agents.
-Associate Analyst at United Airlines; most of what's below is built after hours.
+I build small, fast, self-contained software — web apps that need no backend, and tooling for AI agents.
+Associate Analyst at United Airlines, where I build internal tools for airport operations.
 
 [vanshul.com](https://vanshul.com) · [LinkedIn](https://www.linkedin.com/in/vanshul-goyal00/) · [vanshulg101@gmail.com](mailto:vanshulg101@gmail.com)
 
@@ -12,30 +12,30 @@ Associate Analyst at United Airlines; most of what's below is built after hours.
 | Project | What it does | Built with |
 |---|---|---|
 | **[AdBrain](https://adbrain.vanshul.com)** | Generates and manages on-brand Meta ad creative for local businesses | Next.js, Supabase |
-| **[Tiny Arcade](https://games.vanshul.com)** | 10 instant-play browser games. No backend, no framework | TypeScript, Vite |
-| **[Dev Tools](https://tools.vanshul.com)** | Developer utilities that work fully offline, plus a box that works out whatever you paste | PWA |
-| **[ctx](https://ctx.vanshul.com)** | MCP server that turns a GitHub repo into agent-ready context | Cloudflare Workers |
-| **[mcp](https://mcp.vanshul.com)** | MCP server that reads the live web as clean Markdown | Cloudflare Workers |
-| **[vbrain](https://vbrain.vanshul.com)** | Markdown notes → full-text search, knowledge graph, MCP server | Cloudflare Workers |
+| **[Tiny Arcade](https://games.vanshul.com)** | 10 instant-play browser games — no backend, no framework | TypeScript, Vite |
+| **[Dev Tools](https://tools.vanshul.com)** | JSON, JWT, hashing, encoding, formatters — paste anything and it works out the format. Fully offline | PWA |
+| **[ctx](https://ctx.vanshul.com)** | Turns a GitHub repo into agent-ready context — pack it, or search it for the lines that matter | Cloudflare Workers |
+| **[mcp](https://mcp.vanshul.com)** | Reads the live web as clean Markdown for agents | Cloudflare Workers |
+| **[vbrain](https://vbrain.vanshul.com)** | Markdown notes → full-text search, a knowledge graph, and an MCP server | Cloudflare Workers |
 
-## Published
+`ctx` and `mcp` are published in the [official MCP registry](https://registry.modelcontextprotocol.io).
 
-- **PyPI** — `agent-vault-py` · `agent-mailroom` · `depshift` · `semc`
-- **npm** — `semcache`
-- **MCP Registry** — [`ctx`](https://ctx.vanshul.com) and [`mcp`](https://mcp.vanshul.com) are listed in the [official registry](https://registry.modelcontextprotocol.io).
+## Install
 
-## Selected work
-
-| Project | What it is |
+| Package | What it does |
 |---|---|
-| [semCache](https://github.com/vanshulgoyal101/semCache) | Tiered semantic cache for LLMs — local ONNX embeddings give sub-30ms matches at no API cost |
-| [agent-vault](https://github.com/vanshulgoyal101/agent-vault) | A policy firewall for AI agents that touch money: whitelists and caps enforced before anything is signed |
-| [agentwatch](https://github.com/vanshulgoyal101/agentwatch) | Local-first tracing and step-through replay for multi-agent runs |
-| [autopatch](https://github.com/vanshulgoyal101/autopatch) | Finds breaking API changes between Python package versions and writes the migration patch |
-| [lego](https://github.com/vanshulgoyal101/lego) | Zero-dependency code blocks you copy straight in, with a CLI and a docs viewer |
-| [cosmic-zoom](https://github.com/vanshulgoyal101/cosmic-zoom) | Continuous zoom across 44 orders of magnitude, with real physics at every scale |
-| [the-dialectic](https://github.com/vanshulgoyal101/the-dialectic) | Two AI personas debate while a live graph maps where their ideas collide |
-| [bluecollar-compliance](https://github.com/vanshulgoyal101/bluecollar-attendance-compliance) | An attendance-policy engine plus RAG note analysis for union and FMLA rules |
+| `npm i semcache` · `pip install semc` | Tiered semantic cache for LLMs — local ONNX embeddings give sub-30ms matches at no API cost |
+| `pip install agent-vault-py` | A policy firewall for AI agents that touch money: whitelists and caps enforced before anything is signed |
+| `pip install agent-mailroom` | Machine-to-machine identity and micro-payments for agents — DIDs, signed envelopes, off-chain channels |
+| `pip install depshift` | Finds breaking API changes between Python package versions and writes the migration patch |
+
+## Also
+
+- [agentwatch](https://github.com/vanshulgoyal101/agentwatch) — local-first tracing and step-through replay for multi-agent runs
+- [lego](https://github.com/vanshulgoyal101/lego) — zero-dependency code blocks you copy straight in, with a CLI and a docs viewer
+- [cosmic-zoom](https://github.com/vanshulgoyal101/cosmic-zoom) — continuous zoom across 44 orders of magnitude, with real physics at every scale
+- [the-dialectic](https://github.com/vanshulgoyal101/the-dialectic) — two AI personas debate while a live graph maps where their ideas collide
+- [bluecollar-compliance](https://github.com/vanshulgoyal101/bluecollar-attendance-compliance) — an attendance-policy engine plus RAG note analysis for union and FMLA rules
 
 ## Background
 
