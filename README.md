@@ -1,24 +1,23 @@
 # Vanshul Goyal
 
-I build small, fast, self-contained software — web apps that need no backend, and tooling for AI agents.
+I design and build software end to end — web products, browser games, and tooling for AI agents.
 Associate Analyst at United Airlines, where I build internal tools for airport operations.
 
 [vanshul.com](https://vanshul.com) · [LinkedIn](https://www.linkedin.com/in/vanshul-goyal00/) · [vanshulg101@gmail.com](mailto:vanshulg101@gmail.com)
 
 ---
 
-## Live
+## Products
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[AdBrain](https://adbrain.vanshul.com)** | Generates and manages on-brand Meta ad creative for local businesses | Next.js, Supabase |
-| **[Tiny Arcade](https://games.vanshul.com)** | 10 instant-play browser games — no backend, no framework | TypeScript, Vite |
-| **[Dev Tools](https://tools.vanshul.com)** | JSON, JWT, hashing, encoding, formatters — paste anything and it works out the format. Fully offline | PWA |
-| **[ctx](https://ctx.vanshul.com)** | Turns a GitHub repo into agent-ready context — pack it, or search it for the lines that matter | Cloudflare Workers |
-| **[mcp](https://mcp.vanshul.com)** | Reads the live web as clean Markdown for agents | Cloudflare Workers |
-| **[vbrain](https://vbrain.vanshul.com)** | Markdown notes → full-text search, a knowledge graph, and an MCP server | Cloudflare Workers |
+**[AdBrain](https://adbrain.vanshul.com)** — an AI ad platform for local businesses: describe the business once, and it generates, approves and manages on-brand Meta ad creative. *Next.js · Supabase · Meta API.*
 
-`ctx` and `mcp` are published in the [official MCP registry](https://registry.modelcontextprotocol.io).
+**[Tiny Arcade](https://games.vanshul.com)** — a hub of **10 instant-play browser games** (reflex, memory, typing, mental-math, Wordle, geography and more), each with its own cloud leaderboard. No backend, no framework, 300+ tests. *TypeScript · Vite.*
+
+**[Dev Tools](https://tools.vanshul.com)** — an offline developer toolbox: JSON, JWT, hashing, encoding, formatters, and a Smart Paste box that works out the format of whatever you paste. *PWA, installable, works with no network.*
+
+**[vbrain](https://vbrain.vanshul.com)** — turns a folder of Markdown notes into full-text search, a live knowledge graph, and an MCP server agents can query.
+
+**[ctx](https://ctx.vanshul.com)** & **[mcp](https://mcp.vanshul.com)** — two MCP servers on Cloudflare Workers: one turns a GitHub repo into agent-ready context, the other reads the live web as clean Markdown. Both are in the [official MCP registry](https://registry.modelcontextprotocol.io).
 
 ## Install
 
@@ -29,7 +28,7 @@ Associate Analyst at United Airlines, where I build internal tools for airport o
 | `pip install agent-mailroom` | Machine-to-machine identity and micro-payments for agents — DIDs, signed envelopes, off-chain channels |
 | `pip install depshift` | Finds breaking API changes between Python package versions and writes the migration patch |
 
-## Also
+## Also worth a look
 
 - [agentwatch](https://github.com/vanshulgoyal101/agentwatch) — local-first tracing and step-through replay for multi-agent runs
 - [lego](https://github.com/vanshulgoyal101/lego) — zero-dependency code blocks you copy straight in, with a CLI and a docs viewer
