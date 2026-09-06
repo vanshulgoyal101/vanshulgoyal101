@@ -11,7 +11,7 @@ Associate Analyst at United Airlines, where I build internal tools for airport o
 
 **[AdBrain](https://adbrain.vanshul.com)** — an AI ad platform for local businesses: describe the business once, and it generates, approves and manages on-brand Meta ad creative. *Next.js · Supabase · Meta API.*
 
-**[Tiny Arcade](https://games.vanshul.com)** — a hub of **10 instant-play browser games** (reflex, memory, typing, mental-math, Wordle, geography and more), each with its own cloud leaderboard. No backend, no framework, 300+ tests. *TypeScript · Vite.*
+**[Tiny Arcade](https://games.vanshul.com)** — a hub of **11 instant-play browser games** (2048, reflex, memory, typing, mental-math, Wordle, geography and more), each with its own cloud leaderboard. No backend, no framework, 300+ tests. *TypeScript · Vite.*
 
 **[Dev Tools](https://tools.vanshul.com)** — an offline developer toolbox: JSON, JWT, hashing, encoding, formatters, and a Smart Paste box that works out the format of whatever you paste. *PWA, installable, works with no network.*
 
