@@ -9,15 +9,26 @@ Associate Analyst at United Airlines, where I build internal tools for airport o
 
 ## Products
 
-**[AdBrain](https://adbrain.vanshul.com)** — an AI ad platform for local businesses: describe the business once, and it generates, approves and manages on-brand Meta ad creative. *Next.js · Supabase · Meta API.*
+**[AdBrain](https://adbrain.vanshul.com)**: AI ad creative for local businesses, from a reusable brand profile to generated visuals, review and export. Saved campaign drafts and guarded Meta publishing workflows are built in; real customer Meta onboarding is still being validated. *Next.js · Supabase · Meta API.*
 
-**[Tiny Arcade](https://games.vanshul.com)** — a hub of **11 instant-play browser games** (2048, reflex, memory, typing, mental-math, Wordle, geography and more), each with its own cloud leaderboard. No backend, no framework, 300+ tests. *TypeScript · Vite.*
+**[Tiny Arcade](https://games.vanshul.com)**: instant-play browser games for memory, reflexes, words, geography and mental maths. Play locally without an account; optional Supabase accounts add cloud leaderboards and progress sync. *TypeScript · Vite · Supabase.*
 
 **[Dev Tools](https://tools.vanshul.com)** — an offline developer toolbox: JSON, JWT, hashing, encoding, formatters, and a Smart Paste box that works out the format of whatever you paste. *PWA, installable, works with no network.*
 
-**[vbrain](https://vbrain.vanshul.com)** — turns a folder of Markdown notes into full-text search, a live knowledge graph, and an MCP server agents can query.
+**[vbrain](https://github.com/vanshulgoyal101/vbrain)**: a Markdown knowledge-base engine with search, a knowledge graph, quick capture and MCP tools for agents. The public repository includes a fictional demo; real notes stay in a separate private repository. *Cloudflare Workers · Supabase.*
 
-**[ctx](https://ctx.vanshul.com)** & **[mcp](https://mcp.vanshul.com)** — two MCP servers on Cloudflare Workers: one turns a GitHub repo into agent-ready context, the other reads the live web as clean Markdown. Both are in the [official MCP registry](https://registry.modelcontextprotocol.io).
+**[ctx](https://ctx.vanshul.com)** & **[mcp](https://mcp.vanshul.com)**: MCP servers on Cloudflare Workers. ctx packs and searches GitHub repositories and documentation sites; mcp extracts and searches individual web pages as clean Markdown. Both are in the [official MCP registry](https://registry.modelcontextprotocol.io).
+
+## Engineering Notes
+
+I keep reusable lessons in **[skills](https://github.com/vanshulgoyal101/skills)**:
+real failure patterns, the invariants behind their fixes, and checks that can disprove
+them. Recent notes cover analytics privacy, database concurrency, safe URL fetching,
+responsive design and release verification.
+
+My **[portfolio source](https://github.com/vanshulgoyal101/vanshul-portfolio)** puts
+that approach into practice with browser and accessibility checks, isolated SQL
+authorization tests, and validated static publishing.
 
 ## Install
 
