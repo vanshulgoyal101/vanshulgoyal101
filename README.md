@@ -7,7 +7,7 @@ Associate Analyst at United Airlines, building airport-operations tools.
 
 ## Products
 
-- **[AdBrain](https://adbrain.vanshul.com)**: brand profiles, AI ad visuals, review and export for local businesses. Meta customer onboarding is still being validated.
+- **[AdBrain](https://adbrain.vanshul.com)**: brand profiles, AI ad visuals, review and export for local businesses, with reviewed Meta publishing and recovery flows. Live delivery still depends on verified account/Page linkage.
 - **[Tiny Arcade](https://games.vanshul.com)**: instant-play browser games, with optional cloud leaderboards and progress sync.
 - **[Dev Tools](https://tools.vanshul.com)**: an offline developer toolbox with JSON, JWT, hashing, formatters and format-aware Smart Paste.
 - **[vbrain](https://github.com/vanshulgoyal101/vbrain)**: Markdown search, knowledge graph and MCP tools. Public engine and fictional demo; private notes stay separate.
