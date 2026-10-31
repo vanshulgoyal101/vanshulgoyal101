@@ -1,6 +1,6 @@
 # Vanshul Goyal
 
-I build web products, browser games, and tools for AI agents.
+CEO building AdBrain, an AI ads workspace for local businesses. I also build browser products and tools for AI agents.
 Associate Analyst at United Airlines, building airport-operations tools.
 
 [vanshul.com](https://vanshul.com) · [LinkedIn](https://www.linkedin.com/in/vanshul-goyal00/) · [vanshulg101@gmail.com](mailto:vanshulg101@gmail.com)
